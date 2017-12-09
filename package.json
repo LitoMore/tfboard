@@ -1,0 +1,26 @@
+{
+  "name": "tfboard",
+  "version": "1.0.0",
+  "description": "Farewell Fanfou",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/tfboard.git"
+  },
+  "dependencies": {
+    "fanfou-sdk": "^2.6.0",
+    "fanfou-streamer": "^0.2.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "author": "LitoMore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LitoMore/tfboard/issues"
+  },
+  "homepage": "https://github.com/LitoMore/tfboard#readme"
+}
